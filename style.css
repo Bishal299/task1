@@ -1,0 +1,25 @@
+*{
+    margin-left: 10px;
+}
+.head::first-letter{
+    color: red;
+}
+h1{
+    /* display: flex; */
+    color: black;
+    border-radius: 4px;
+
+}
+
+#login{
+    background-color: primary;
+}
+h1 button{
+    border-radius: 6px;
+}
+.ans{
+    background-color:rgb(53, 175, 53);
+}
+.up{
+    background-color: palevioletred;
+}
